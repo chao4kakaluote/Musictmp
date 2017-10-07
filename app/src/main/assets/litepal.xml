@@ -1,0 +1,7 @@
+<litepal>
+    <dbname value="music_db"/>
+    <version value="2"/>
+    <list>
+        <mapping class="com.example.chao4kakaluote.music.db.Music"/>
+    </list>
+</litepal>
